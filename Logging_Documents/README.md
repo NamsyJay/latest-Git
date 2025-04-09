@@ -19,3 +19,5 @@
     - This allows us to display log messages.
 
 ### 4) When running Complex Applications, there is integration with logging services
+
+### 5) Errors when Logging
